@@ -38,7 +38,7 @@ body {
 .box2 {
   height: 200px;
   width: 200px;
-  border-radius: 50%;
+  /* border-radius: 50%; */
   background-image: linear-gradient(#4d21c9, #2521, #2521);
   display: flex;
   justify-content: center;
